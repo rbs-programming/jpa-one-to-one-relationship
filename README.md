@@ -1,6 +1,6 @@
 # jpa-one-to-one-relationship
 
-<h4>This project need maven to be run</h4>
+<h4>This project need maven to run</h4>
 
 Open the jpa-one-to-one-relationship/src/main/resources/application.properties file and change the database configuration:
 
