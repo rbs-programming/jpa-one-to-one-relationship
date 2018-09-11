@@ -18,10 +18,10 @@
 <h3>How to run this project?</h3>
 <ul>
   <li>
-    Clone this repository to your machine with the command "git clone https://github.com/rbsrafa/jpa-one-to-one-relationship.git".
+    Clone this repository to your machine with the command - $ git clone https://github.com/rbsrafa/jpa-one-to-one-relationship.git.
   </li>
   <li>
      Open the jpa-one-to-one-relationship/src/main/resources/application.properties file and change the database username and password values to match your mysql username and password.
   </li>
-  <li>In the root directory "jpa-one-to-one-relationship" type: "mvn spring-boot:run"</li>
+  <li>In the root directory "jpa-one-to-one-relationship" type the command - $ mvn spring-boot:run</li>
 </ul>
