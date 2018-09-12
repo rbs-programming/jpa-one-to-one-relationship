@@ -21,7 +21,7 @@
     Clone this repository to your machine with the command - $ git clone https://github.com/rbsrafa/jpa-one-to-one-relationship.git.
   </li>
   <li>
-     Open the jpa-one-to-one-relationship/src/main/resources/application.properties file and change the database username and password values to match your mysql username and password.
+     Open the jpa-one-to-one-relationship/src/main/resources/application.properties file and change the spring.datasource.username and spring.datasource.password values to match your mysql username and password.
   </li>
   <li>
     Log into mysql shell and create a MySQL Database with the command - $ CREATE DATABASE jpa_one_to_one_relationship;
