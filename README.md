@@ -23,5 +23,8 @@
   <li>
      Open the jpa-one-to-one-relationship/src/main/resources/application.properties file and change the database username and password values to match your mysql username and password.
   </li>
-  <li>In the root directory "jpa-one-to-one-relationship" type the command - $ mvn spring-boot:run</li>
+  <li>
+    Log into mysql shell and create a MySQL Database with the command - $ CREATE DATABASE jpa_one_to_one_relationship;
+  </li>
+  <li>In the project's root directory "jpa-one-to-one-relationship" type the command - $ mvn spring-boot:run</li>
 </ul>
