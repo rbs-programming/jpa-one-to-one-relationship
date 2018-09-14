@@ -1,30 +1,18 @@
 # jpa-one-to-one-relationship
 
-<h3>Description</h3>
-<p>
-  A demonstration project for a one to one relationship using Spring Boot, Jpa and MySQL.
-</p>
-<p>
-  Check the article at https://www.rbsprogramming.com/articles/jpa-one-to-one-relationship/  
-</p>
+### Description
+A demo project for a one to one relationship using Spring Boot, Jpa and MySQL.
 
-<h3>Requirements</h3>
-<ul>
-  <li>JDK-1.8+</li>
-  <li>Maven-3.2+</li>
-  <li>MySQL-5.7</li>
-</ul>
+Check the article at [RBS Programming](https://www.rbsprogramming.com/articles/jpa-one-to-one-relationship/).  
 
-<h3>How to run this project?</h3>
-<ul>
-  <li>
-    Clone this repository to your machine with the command - $ git clone https://github.com/rbsrafa/jpa-one-to-one-relationship.git.
-  </li>
-  <li>
-     Open the jpa-one-to-one-relationship/src/main/resources/application.properties file and change the spring.datasource.username and spring.datasource.password values to match your mysql username and password.
-  </li>
-  <li>
-    Log into mysql shell and create a MySQL Database with the command - $ CREATE DATABASE jpa_one_to_one_relationship;
-  </li>
-  <li>In the project's root directory "jpa-one-to-one-relationship" type the command - $ mvn spring-boot:run</li>
-</ul>
+### Requirements
+* JDK-1.8+
+* Maven-3.2+
+* MySQL-5.7
+
+### How to run this project?
+1. Clone this repository to your machine with the command - $ `git clone https://github.com/rbsrafa/jpa-one-to-one-relationship.git.`
+1. Open the jpa-one-to-one-relationship/src/main/resources/application.properties file and change the spring.datasource.username and spring.datasource.password values to match your mysql username and password.
+1. Log into mysql shell and create a MySQL Database with the command - $ `CREATE DATABASE jpa_one_to_one_relationship;`
+1. In the project's root directory "jpa-one-to-one-relationship" type the command - $ `mvn spring-boot:run`
+
